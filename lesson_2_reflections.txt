@@ -35,3 +35,15 @@ git add
 git status
 staging area
 working directory
+
+
+
+
+List of git commands :
+ git init
+ git status
+ git log
+ git diff
+ git checkout
+ git diff --staged
+ git checkout master 
