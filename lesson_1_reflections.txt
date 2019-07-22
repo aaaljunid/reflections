@@ -43,12 +43,18 @@ git log will do this. It doesn't take any arguments.
 
 
 
-- Git commands:
+*Git commands:
 git init
 git status
 git log
 git diff
 git checkout
+git config --global color.ui auto
+
+
+
+
+
 
 
 
